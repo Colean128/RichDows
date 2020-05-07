@@ -1,0 +1,15 @@
+C:\Users\Colean\source\repos\RichDowsC\RichDows\bin\Debug\netcoreapp3.1\RichDows.exe
+C:\Users\Colean\source\repos\RichDowsC\RichDows\obj\Debug\netcoreapp3.1\RichDows.AssemblyInfoInputs.cache
+C:\Users\Colean\source\repos\RichDowsC\RichDows\obj\Debug\netcoreapp3.1\RichDows.AssemblyInfo.cs
+C:\Users\Colean\source\repos\RichDowsC\RichDows\bin\Debug\netcoreapp3.1\RichDows.deps.json
+C:\Users\Colean\source\repos\RichDowsC\RichDows\bin\Debug\netcoreapp3.1\RichDows.runtimeconfig.json
+C:\Users\Colean\source\repos\RichDowsC\RichDows\bin\Debug\netcoreapp3.1\RichDows.runtimeconfig.dev.json
+C:\Users\Colean\source\repos\RichDowsC\RichDows\bin\Debug\netcoreapp3.1\RichDows.dll
+C:\Users\Colean\source\repos\RichDowsC\RichDows\bin\Debug\netcoreapp3.1\RichDows.pdb
+C:\Users\Colean\source\repos\RichDowsC\RichDows\bin\Debug\netcoreapp3.1\DiscordRPC.dll
+C:\Users\Colean\source\repos\RichDowsC\RichDows\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Colean\source\repos\RichDowsC\RichDows\obj\Debug\netcoreapp3.1\RichDows.csproj.CoreCompileInputs.cache
+C:\Users\Colean\source\repos\RichDowsC\RichDows\obj\Debug\netcoreapp3.1\RichDows.csproj.CopyComplete
+C:\Users\Colean\source\repos\RichDowsC\RichDows\obj\Debug\netcoreapp3.1\RichDows.dll
+C:\Users\Colean\source\repos\RichDowsC\RichDows\obj\Debug\netcoreapp3.1\RichDows.pdb
+C:\Users\Colean\source\repos\RichDowsC\RichDows\obj\Debug\netcoreapp3.1\RichDows.genruntimeconfig.cache
